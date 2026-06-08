@@ -2,8 +2,7 @@
 
 A single-file, client-side expense tracker that parses DBS/POSB bank statement PDFs, auto-categorises transactions using Google Gemini AI, and exports beautifully styled `.xlsx` spreadsheets. Designed to be hosted on GitHub Pages with zero backend or build step required.
 
-![Ledger Screenshot](https://via.placeholder.com/900x480/1C1C1E/FFFFFF?text=Ledger+%E2%80%94+Expense+Tracker)
-<img width="808" height="734" alt="Screenshot 2026-06-08 232001" src="https://github.com/user-attachments/assets/544dd2c6-0432-4747-8ba1-b8af7260cfab" />
+<img width="608" height="534" alt="Screenshot 2026-06-08 232001" src="https://github.com/user-attachments/assets/544dd2c6-0432-4747-8ba1-b8af7260cfab" />
 
 ---
 
