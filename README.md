@@ -20,7 +20,7 @@ A single-file, client-side expense tracker that parses DBS/POSB bank statement P
 
 ## Live Demo
 
-[https://javier-ganmw.github.io/exptracker](https://javier-ganmw.github.io/exptracker/)
+[https://javier-ganmw.github.io/exptracker]([https://javier-ganmw.github.io/exptracker/])
 
 
 ---
