@@ -20,9 +20,8 @@ A single-file, client-side expense tracker that parses DBS/POSB bank statement P
 
 ## Live Demo
 
-[https://yourusername.github.io/ledger](https://yourusername.github.io/ledger)
+[https://javier-ganmw.github.io/exptracker](https://javier-ganmw.github.io/exptracker/)
 
-*(Replace with your own GitHub Pages URL after deployment)*
 
 ---
 
